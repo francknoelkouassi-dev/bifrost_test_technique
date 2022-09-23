@@ -1,0 +1,26 @@
+{
+  "name": "bifrost",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francknoelkouassi-dev/bifrost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francknoelkouassi-dev/bifrost/issues"
+  },
+  "homepage": "https://github.com/francknoelkouassi-dev/bifrost#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
